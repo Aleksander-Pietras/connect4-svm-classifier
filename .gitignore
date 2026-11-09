@@ -1,0 +1,23 @@
+# 1. Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 2. Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# 3. Environment & Secrets files (API keys, passwords)
+.env
+.env.local
+
+# 4. IDE / Editor settings (VS Code & PyCharm configuration)
+.vscode/
+.idea/
+
+# 5. OS-generated metadata files
+.DS_Store
+Thumbs.db
